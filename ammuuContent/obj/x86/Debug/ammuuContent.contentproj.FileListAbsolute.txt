@@ -1,0 +1,2 @@
+C:\Users\Pelikurssi11\documents\visual studio 2010\Projects\ammuu\ammuu\ammuuContent\obj\x86\Debug\ammuuContent.contentprojResolveAssemblyReference.cache
+C:\Users\11thHour\Documents\Visual Studio 2010\Projects\ammuu\ammuu\ammuuContent\obj\x86\Debug\ammuuContent.contentprojResolveAssemblyReference.cache

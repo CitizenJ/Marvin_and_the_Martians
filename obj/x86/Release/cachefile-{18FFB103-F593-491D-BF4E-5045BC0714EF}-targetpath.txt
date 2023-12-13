@@ -1,0 +1,14 @@
+Content\soldier.xnb
+Content\bullet.xnb
+Content\martian1.xnb
+Content\martian2.xnb
+Content\floor.xnb
+Content\marsD.xnb
+Content\lazer.xnb
+Content\Blaster.xnb
+Content\Lazer1.xnb
+Content\pop.xnb
+Content\äänimaisema003.xnb
+Content\äänimaisema003.wma
+Content\Giuseppe.xnb
+Content\Giuseppe.wma
